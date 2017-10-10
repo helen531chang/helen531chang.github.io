@@ -3,8 +3,8 @@
     src: url(fonts/LaughingandSmiling.ttf);
 }
 body{
-    background-image: url("images/pink.png");
-    background-size: 1910px 1910px;
+    background-image: url("images/galaxy.png");
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #f2c1d1;
 }
